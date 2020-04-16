@@ -176,9 +176,7 @@ main {
     transition-property: background, transform;
     transform-origin: 75% 75%;
 }
-/*.active {*/
-/*    color: aqua;*/
-/*}*/
+
 
 .cursor.nav-active {
     background: rgb(86, 124, 228);
